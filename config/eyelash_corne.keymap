@@ -118,7 +118,7 @@
 &trans     &trans  &trans  &trans     &trans  &trans                              &trans                &trans       &trans  &trans     &trans   &trans    &trans
 &trans     &trans  &trans  &trans     &trans  &trans                    &trans    &trans     &trans     &trans       &trans  &trans     &trans   &trans    &trans
 &kp LGUI   &trans  &trans  &trans     &trans  &trans        &trans                &trans                &trans       &trans  &trans     &trans   &trans    &trans
-                           &kp LCTRL  &trans  &trans                                                    &trans       &trans  &trans
+                           &kp RALT  &trans  &trans                                                    &trans       &trans  &LCTRL
             >;
 
             sensor-bindings = <&scroll_encoder>;
